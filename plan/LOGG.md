@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-603 levert og gjennomgått av Fable; godkjent med små rettelser. Spørsmål 96 (utsatte deler, G-dato for etterlønn). | Fable 5.1 |
 | 17.10.2026 | AP-705 gjennomgått av Opus; tre funn rettes. Noter i AP-301, AP-304 og AP-703. | Fable 5.1 |
 | 17.10.2026 | AP-705 levert, til gjennomgang hos Opus. | Fable 5.1 |
 | 17.10.2026 | AP-506 ferdig, merget (7a35593). Bølge 9 komplett. Bølge 10 (AP-301, AP-603, AP-705) pågår. | Fable 5.1 |
