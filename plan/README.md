@@ -32,4 +32,4 @@ Pakkefilene er oppdrag, ikke fasit. Finner implementasjonen en feil i kartleggin
 | til gjennomgang | Implementasjonen er ferdig, gjennomgangen gjenstår |
 | ferdig | Gjennomgått og slått sammen i `main` |
 
-AP-000, AP-001, AP-002, AP-003 og AP-005 er ferdige per 17.10.2026. AP-006 og AP-407 pågår. Resten har status «planlagt».
+AP-000, AP-001, AP-002, AP-003, AP-005 og AP-407 er ferdige per 17.10.2026. AP-006 pågår. Resten har status «planlagt».
