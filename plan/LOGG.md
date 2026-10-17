@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-105 eskalert fra Haiku til Sonnet for a-meldingens kodelister; AP-004 fikk avgjørelser fra Fable (G verifisert mot NAV: 130 160 fra 1.5.2025, 136 549 fra 1.5.2026, snitt 134 419; primærkilder i stedet for research; forslagsår unntas fra kravet om komplette nøkler). Erfaring: K1-datapakker som krever kildehenting fra nett bør gå på Sonnet, ikke Haiku. | Fable 5.1 |
 | 17.10.2026 | Bølge 5 fortsetter etter AP-006: AP-007 på Sonnet (ap-007), AP-401 og AP-701 på Opus (ap-401, ap-701). AP-102 eskalert fra Haiku til Sonnet fordi kildedataene ikke ble hentet; rammeverket fra Haiku beholdes. | Fable 5.1 |
 | 17.10.2026 | AP-006 ferdig: rettelser verifisert, merget til main (dc36b4e). Bølge 4 er dermed komplett. | Fable 5.1 |
 | 17.10.2026 | AP-006 implementert av Opus og gjennomgått av Fable; to funn rettes (selvtildeling av roller, global deaktivering). Avgjort: en bruker kan ikke gi seg selv roller; deaktivering bare når brukeren ikke har roller hos andre arbeidsgivere. Bølge 5-datapakkene startet på Haiku 5.5: AP-004 (ap-004), AP-102 (ap-102), AP-105 (ap-105), AP-203 (ap-203). Eieren ga stående instruks: gjør alle oppgaver uten å spørre, stopp bare for spørsmål som trenger svar. | Fable 5.1 |
