@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-103 ferdig, merget (1647c27). AP-104 og AP-402 startes på Opus (worktrees ap104, ap402). | Fable 5.1 |
 | 17.10.2026 | AP-008, AP-101 og AP-103 rettet etter gjennomgang; merges i rekkefølgen AP-103, AP-101, AP-008 med rebase og regenererte migreringer etter AP-106. | Fable 5.1 |
 | 17.10.2026 | Bølge 7 startet med AP-201 på Opus 5.5 (worktree lonnssystem-ap201, gren ap-201) siden AP-106 er merget. AP-104 og AP-402 venter på AP-103. | Fable 5.1 |
 | 17.10.2026 | AP-106 ferdig, merget (b808e02). | Fable 5.1 |
