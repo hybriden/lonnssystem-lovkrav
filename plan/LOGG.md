@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-212 gjennomgått av Opus; sju funn rettes. Spørsmål 88 i AP-009, note i AP-301. AP-205 rebaser for siste gang og merges straks. | Fable 5.1 |
 | 17.10.2026 | AP-208 ferdig, merget (6594c06). AP-209 gjennomgått av Opus (fire funn rettes, blant annet 6-timersregelen skal være «6 timer eller mer» og 120 000-taket mangler hjemmel). AP-602 og AP-210 rettet, rebaser mot ny main. | Fable 5.1 |
 | 17.10.2026 | AP-402 gjennomgått av Fable og godkjent med én rettelse (policy på XML-eksport). AP-205 rebaser en gang til etter AP-202. Noter i AP-904. | Fable 5.1 |
 | 17.10.2026 | Bølge 8 fortsetter etter AP-104: AP-107, AP-108, AP-211 og AP-501 startet på Sonnet 5.5 (worktrees ap107, ap108, ap211, ap501). AP-107 modellerer ikke trekkavtaler (det er AP-212). | Fable 5.1 |
