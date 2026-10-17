@@ -13,7 +13,7 @@ Lønnssystemet bygges i .NET 10 med PostgreSQL, en ren C#-domenekjerne for alle 
 | API | ASP.NET Core Minimal API med OpenAPI | Ett skjema per endepunkt, generert TypeScript-klient til frontend. |
 | Integrasjoner | `Lonn.Integrasjoner`: Skatteetaten, NAV, Enhetsregisteret, Maskinporten | Hver klient har et grensesnitt i domenet, en ekte implementasjon og en opptaksbasert testimplementasjon. |
 | XML | XSD-genererte klasser og `XmlReaderSettings` med skjemavalidering | A-melding v2.3 er XML med XSD fra Skatteetaten. Meldingen valideres mot XSD før sending. |
-| Frontend | React 19, Vite, TypeScript, norsk brukertekst | Samme konvensjoner som kapasativ. Generert klient fra OpenAPI, så typer ikke drifter. |
+| Frontend | React 19, Vite, TypeScript, norsk brukertekst, Liquid Glass-designet fra harmonix | Designsystemet (tokens, radier, typeskala, glass, UI-kit) porteres fra eierens repo hybriden/harmonix i AP-008; se `docs/design.md` i koderepoet. Generert klient fra OpenAPI, så typer ikke drifter. |
 | Autentisering | Argon2id, tjenersidesesjoner i cookie, TOTP, rollebasert tilgang | Fødselsnummer, fagforening og sykefravær er sensitive. Ingen JWT i nettleseren. |
 | Tester | xUnit, Verify (snapshots), Testcontainers (Postgres), Playwright for e2e | Domenet testes uten infrastruktur. API testes mot ekte Postgres. |
 | Drift | Docker Compose, flerstegs-bilder, migrering før oppstart | Kjøres hos leverandør i EØS. Sikkerhetskopi adskilt og testet årlig (bff. § 7-2). |
@@ -70,6 +70,10 @@ Disse er utgangspunktet for `docs/invariants/` i koderepoet. AP-001 utdyper dem 
 **Personvern.** Fødselsnummer krypteres i databasen, maskeres i brukerflaten og står aldri i URL-er eller logger. Fagforeningsmedlemskap og fravær har egne roller. Ingen diagnoser lagres. Sletteregler per datakategori, med bokføringsplikt foran slettekrav.
 
 **Én opplysningspliktig per lønnskjøring, flere per installasjon.** Systemet er flerkunde fra dag én (regnskapsførere har mange klienter). Alle tabeller har `ArbeidsgiverId`, og hver spørring filtrerer på den. Bekreftet av eieren 17.10.2026.
+
+**Ett designsystem, felles komponenter.** Brukerflaten bygges av ett kit (`web/src/components/ui`, portert fra harmonix) og områdekomponenter over det (`web/src/components/app`). En side lager ikke sin egen knapp, tabell eller dialog. Trengs noe nytt, utvides kitet med en variant (`cva`-prop), ikke med en nesten lik komponent ved siden av. Sider importerer ikke Radix eller sonner direkte; det gjør bare kitet. Begrunnelse fra eieren 17.10.2026: en haug med nesten like komponenter er det dyreste å vedlikeholde.
+
+**Dependency injection og riktig granularitet i backend.** Alle avhengigheter kommer gjennom konstruktøren fra `Microsoft.Extensions.DependencyInjection`; ingen `static`-tilstand, ingen service locator, ingen `new` av en tjeneste inne i en annen. Hvert prosjekt registrerer seg selv med én utvidelsesmetode (`AddLonnDomain()`, `AddLonnInfrastruktur()`, `AddLonnIntegrasjoner()`), og containeren bygges med `ValidateOnBuild` og `ValidateScopes` i en test. En tjeneste har ett ansvar og én grunn til å endre seg: én beregner per fagområde (`ForskuddstrekkBeregner`, `ArbeidsgiveravgiftBeregner`, `FeriepengeBeregner`) som `LonnskjoringBeregner` komponerer, ikke én tjeneste per tabell (anemisk) og ikke én tjeneste som gjør alt. Overstiger en tjeneste fem avhengigheter, deles den. Grensesnitt der det finnes to implementasjoner (ekte og opptak for integrasjoner, klokke, kryptering); konkrete klasser for rene beregnere. Ingen generiske repositorier over EF Core: `DbContext` er arbeidsenheten, og lesing skjer i små, navngitte spørringsklasser per bruksområde. Ett valideringsmønster i hele API-et, ikke tre.
 
 ## Testing
 

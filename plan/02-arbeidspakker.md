@@ -16,7 +16,7 @@ Kolonnen «Str» er størrelse: S under en dag, M en til tre dager, L mer enn tr
 | [AP-005](arbeidspakker/AP-005.md) | Databaseskjema, migreringer og revisjonslogg | K3 | Opus 5.5 | Fable 5.1 | AP-001 | M |
 | [AP-006](arbeidspakker/AP-006.md) | Autentisering, roller og tilgangslogg | K3 | Opus 5.5 | Fable 5.1 | AP-005 | M |
 | [AP-007](arbeidspakker/AP-007.md) | API-skjelett: Minimal API, feilmodell, OpenAPI, generert klient | K2 | Sonnet 5.5 | Opus 5.5 | AP-006 | S |
-| [AP-008](arbeidspakker/AP-008.md) | Web-skjelett: React, ruting, innlogging, designtokens, maskering | K2 | Sonnet 5.5 | Opus 5.5 | AP-007 | M |
+| [AP-008](arbeidspakker/AP-008.md) | Web-skjelett: React, ruting, innlogging, designtokens, maskering | K2 | Sonnet 5.5 | Opus 5.5 | AP-007 | L |
 | [AP-009](arbeidspakker/AP-009.md) | Avklaring av åpne juridiske spørsmål | K4 | Fable 5.1 | menneske | – | M |
 
 ## Fase 1: Grunndata
