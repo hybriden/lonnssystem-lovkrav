@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-401 gjennomgått av Fable og godkjent; Opus rebaser og regenererer migreringen etter AP-701. AP-007 rettet etter Opus-gjennomgang, merges sist i bølgen. Spørsmål 69 i AP-009, noter i AP-902 og AP-904. | Fable 5.1 |
 | 17.10.2026 | AP-701 ferdig (merget 4e1b833) og AP-203 ferdig (merget a5a615e). Worktree-mappene slettet. | Fable 5.1 |
 | 17.10.2026 | AP-701 implementert av Opus og gjennomgått av Fable; ett funn rettes (slettefrist regnes fra sluttdato + 1 år til lønnstabellene finnes, fordi feriepenger utbetales året etter). Spørsmål 67 og 68 i AP-009. Noter i AP-301, AP-805 og AP-902. | Fable 5.1 |
 | 17.10.2026 | AP-203 til gjennomgang, rettelser pågår. Akseptansekriterium 2 (tabell 8000 i stedet for 7100) og 7 (3 s i stedet for 500 ms) og importkommandoen justert i pakkefilen. Spørsmål 66 i AP-009. Eieren ba om at ferdige worktree-mapper slettes; ap004, ap006 og ap102 er slettet. | Fable 5.1 |
