@@ -69,7 +69,7 @@ Disse er utgangspunktet for `docs/invariants/` i koderepoet. AP-001 utdyper dem 
 
 **Personvern.** Fødselsnummer krypteres i databasen, maskeres i brukerflaten og står aldri i URL-er eller logger. Fagforeningsmedlemskap og fravær har egne roller. Ingen diagnoser lagres. Sletteregler per datakategori, med bokføringsplikt foran slettekrav.
 
-**Én opplysningspliktig per lønnskjøring, flere per installasjon.** Systemet er flerkunde fra dag én (regnskapsførere har mange klienter). Alle tabeller har `ArbeidsgiverId`, og hver spørring filtrerer på den. Dette er en antakelse som bør bekreftes (se AP-009).
+**Én opplysningspliktig per lønnskjøring, flere per installasjon.** Systemet er flerkunde fra dag én (regnskapsførere har mange klienter). Alle tabeller har `ArbeidsgiverId`, og hver spørring filtrerer på den. Bekreftet av eieren 17.10.2026.
 
 ## Testing
 
