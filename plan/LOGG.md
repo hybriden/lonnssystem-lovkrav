@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-802 ferdig, merget (9dd5fae). Merge-kø: AP-304, AP-504, AP-404, AP-703, AP-702, AP-903. | Fable 5.1 |
 | 18.10.2026 | AP-601 ferdig, merget (42251f0). AP-304 og AP-504 godkjent av Fable med små rettelser. AP-404, AP-702 og AP-703 rettet. Merge-kø: AP-802, AP-304, AP-504, AP-404, AP-703, AP-702, AP-903. | Fable 5.1 |
 | 18.10.2026 | AP-304, AP-504 og AP-601 levert (Fable gjennomgår; AP-601 godkjent). AP-702 gjennomgått av Opus (to funn). AP-802 rettet. Spørsmål 103 og 104. | Fable 5.1 |
 | 18.10.2026 | AP-404 gjennomgått av Opus mot Skatteetatens regelliste; nivåer rettes. Kriteriene 2–6 presisert. Spørsmål 102. | Fable 5.1 |
