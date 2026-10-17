@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-203 til gjennomgang, rettelser pågår. Akseptansekriterium 2 (tabell 8000 i stedet for 7100) og 7 (3 s i stedet for 500 ms) og importkommandoen justert i pakkefilen. Spørsmål 66 i AP-009. Eieren ba om at ferdige worktree-mapper slettes; ap004, ap006 og ap102 er slettet. | Fable 5.1 |
 | 17.10.2026 | AP-102 ferdig: gjennomgått av Sonnet, rettelser verifisert, merget (5319ba9). Spørsmål 65 i AP-009 (Jan Mayen). | Fable 5.1 |
 | 17.10.2026 | AP-004 ferdig: gjennomgått av Sonnet, rettelser av Haiku verifisert, merget (0e3d631). Spørsmål 64 i AP-009 (km-sats 5,30 eller 5,00; gave 20 år). | Fable 5.1 |
 | 17.10.2026 | AP-102 fullført av Sonnet, til gjennomgang hos Sonnet (egen økt). Beregningskodestrengene bekreftes når AP-105 har a-meldingens kodeliste. Delte kommuner notert i AP-101. | Fable 5.1 |
