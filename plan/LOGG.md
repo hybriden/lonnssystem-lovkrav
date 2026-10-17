@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-501 ferdig, merget (43009ad). AP-211 rettet. AP-107, AP-210 og AP-211 rebaser i rekkefølge. | Fable 5.1 |
 | 17.10.2026 | AP-108 ferdig, merget (7d3dda2). AP-501, AP-107 og AP-210 rebaser i rekkefølge. | Fable 5.1 |
 | 17.10.2026 | AP-211 gjennomgått av Opus; seks funn rettes (timelønn ved deltid var feil). Spørsmål 52 utvidet, spørsmål 91. | Fable 5.1 |
 | 17.10.2026 | AP-212 ferdig, merget (d8c5349). AP-107, AP-108 og AP-501 rettet etter gjennomgang og venter på rebase og merge. | Fable 5.1 |
