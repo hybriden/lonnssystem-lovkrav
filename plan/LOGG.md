@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-106 ferdig, merget (b808e02). | Fable 5.1 |
 | 17.10.2026 | AP-101 og AP-103 gjennomgått av Opus; rettelser pågår på Sonnet. Spørsmål 75 til 78 i AP-009, noter i AP-205 og AP-801. Spesifikasjonen i AP-101 rettet: 974760673 er Registerenheten i Brønnøysund. | Fable 5.1 |
 | 17.10.2026 | AP-008 gjennomgått av Opus; rettelser og Radix-innføring pågår. AP-101 og AP-103 til gjennomgang hos Opus. Spørsmål 44 besvart (Enhetsregisteret), 73 og 74 lagt til. | Fable 5.1 |
 | 17.10.2026 | AP-106 gjennomgått av Opus, seks funn rettes av Sonnet. Spørsmål 70 til 72 i AP-009, noter i AP-301 og AP-303. AP-008 til gjennomgang hos Opus. | Fable 5.1 |
