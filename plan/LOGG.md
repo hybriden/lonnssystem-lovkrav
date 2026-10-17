@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-207 ferdig, merget (2083b00). Bølge 9 mangler bare AP-506. | Fable 5.1 |
 | 17.10.2026 | Bølge 10 startet: AP-301, AP-603 og AP-705 på egne grener fra main b5e4191, parallelt med rettingene i AP-207 og AP-506. | Fable 5.1 |
 | 17.10.2026 | AP-507 ferdig, merget (b5e4191). Bølge 9 mangler AP-207 og AP-506 (retter). Bølge 10 (AP-301, AP-603, AP-705) forberedes. | Fable 5.1 |
 | 17.10.2026 | AP-206 ferdig (5897634) og AP-801 ferdig (02b4a77). Gjenstår i bølge 9: AP-207, AP-506 (retter), AP-507 (rebaset, OpenAPI-kopi oppdateres). | Fable 5.1 |
