@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-206 levert og gjennomgått av Fable; én lovrettelse (trekk ved fratreden), kriterium 9 rettet. Spørsmål 93. | Fable 5.1 |
 | 17.10.2026 | AP-210 ferdig, merget (3267487). Bølge 8 komplett. AP-204 gjennomgått av Opus (fire funn), AP-801 og AP-507 levert og til gjennomgang. Spørsmål 5 lukket, spørsmål 92. | Fable 5.1 |
 | 17.10.2026 | AP-211 ferdig, merget (f01dcbf). AP-204 levert, til gjennomgang hos Opus. AP-210 tar siste rebase. | Fable 5.1 |
 | 17.10.2026 | AP-107 ferdig, merget (128f0e8). AP-210 og AP-211 rebaser. | Fable 5.1 |
