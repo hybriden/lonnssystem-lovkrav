@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-403 og AP-503 gjennomgått av Fable (godkjent med rettelser; AP-503 må trekke fastlønn for sykedager). Spørsmål 100. AP-306 rebaser for merge. | Fable 5.1 |
 | 17.10.2026 | AP-305 ferdig, merget (398f3aa). AP-303, AP-403 og AP-503 levert (Fable gjennomgår). AP-704 gjennomgått av Opus (tre funn). AP-302 og AP-306 retter. | Fable 5.1 |
 | 17.10.2026 | AP-704 levert, til gjennomgang hos Opus. | Fable 5.1 |
 | 17.10.2026 | AP-302 gjennomgått av Opus; fire funn rettes, kriterium 5 rettet (maskering). | Fable 5.1 |
