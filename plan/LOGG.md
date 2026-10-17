@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-303 ferdig, merget (7db0cce). AP-503 rebaser som neste, så AP-704. | Fable 5.1 |
 | 18.10.2026 | AP-403 ferdig, merget (61a5afb). AP-303 rebaser som neste. | Fable 5.1 |
 | 17.10.2026 | AP-302 ferdig, merget (eaa2025). AP-403 rebaser som neste. | Fable 5.1 |
 | 17.10.2026 | AP-306 ferdig, merget (4960592). AP-302, AP-303, AP-403, AP-503 og AP-704 er rettet og rebases i rekkefølge. | Fable 5.1 |
