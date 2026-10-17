@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-705 levert, til gjennomgang hos Opus. | Fable 5.1 |
 | 17.10.2026 | AP-506 ferdig, merget (7a35593). Bølge 9 komplett. Bølge 10 (AP-301, AP-603, AP-705) pågår. | Fable 5.1 |
 | 17.10.2026 | AP-207 ferdig, merget (2083b00). Bølge 9 mangler bare AP-506. | Fable 5.1 |
 | 17.10.2026 | Bølge 10 startet: AP-301, AP-603 og AP-705 på egne grener fra main b5e4191, parallelt med rettingene i AP-207 og AP-506. | Fable 5.1 |
