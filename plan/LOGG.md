@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-501 gjennomgått av Opus; overlapp per arbeidsforhold rettes. Spørsmål 90. | Fable 5.1 |
 | 17.10.2026 | AP-602 ferdig, merget (a20627e). AP-107 gjennomgått av Opus; fem funn rettes, kriterium 4 rettet etter § 14-5 tredje ledd. AP-212 rettet, rebaser mot ny main. | Fable 5.1 |
 | 17.10.2026 | AP-108 gjennomgått av Opus: satsene stemmer, dokumentasjon og tester rettes. Spørsmål 89 (nattarbeidsflagg). | Fable 5.1 |
 | 17.10.2026 | AP-501 levert, til gjennomgang hos Opus. | Fable 5.1 |
