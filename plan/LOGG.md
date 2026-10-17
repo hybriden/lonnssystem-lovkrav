@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-210 ferdig, merget (3267487). Bølge 8 komplett. AP-204 gjennomgått av Opus (fire funn), AP-801 og AP-507 levert og til gjennomgang. Spørsmål 5 lukket, spørsmål 92. | Fable 5.1 |
 | 17.10.2026 | AP-211 ferdig, merget (f01dcbf). AP-204 levert, til gjennomgang hos Opus. AP-210 tar siste rebase. | Fable 5.1 |
 | 17.10.2026 | AP-107 ferdig, merget (128f0e8). AP-210 og AP-211 rebaser. | Fable 5.1 |
 | 17.10.2026 | Bølge 9 startet: AP-204, AP-206, AP-207, AP-502, AP-506, AP-507 og AP-801 på egne grener fra main 43009ad. AP-107, AP-210 og AP-211 fra bølge 8 gjenstår å merge. | Fable 5.1 |
