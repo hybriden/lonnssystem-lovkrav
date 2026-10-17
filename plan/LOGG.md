@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-502 ferdig, merget (c968c58). AP-207 gjennomgått av Opus (fire funn, kriterier rettet). AP-507 rettet. | Fable 5.1 |
 | 17.10.2026 | AP-204 ferdig, merget (655fb5f). AP-801 gjennomgått av Opus (fem funn, fødselsnummer i søke-URL viktigst). AP-506 levert, til gjennomgang hos Opus. AP-206 rettet etter Fables gjennomgang. Spørsmål 95 (API-mangler fra UI). | Fable 5.1 |
 | 17.10.2026 | AP-502 gjennomgått av Fable, godkjent med små rettelser. Spørsmål 94. | Fable 5.1 |
 | 17.10.2026 | AP-207 og AP-502 levert (til gjennomgang hos Opus og Fable). AP-507 gjennomgått av Sonnet; to funn rettes. Note i AP-805. | Fable 5.1 |
