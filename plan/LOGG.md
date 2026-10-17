@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | Bølge 7 startet med AP-201 på Opus 5.5 (worktree lonnssystem-ap201, gren ap-201) siden AP-106 er merget. AP-104 og AP-402 venter på AP-103. | Fable 5.1 |
 | 17.10.2026 | AP-106 ferdig, merget (b808e02). | Fable 5.1 |
 | 17.10.2026 | AP-101 og AP-103 gjennomgått av Opus; rettelser pågår på Sonnet. Spørsmål 75 til 78 i AP-009, noter i AP-205 og AP-801. Spesifikasjonen i AP-101 rettet: 974760673 er Registerenheten i Brønnøysund. | Fable 5.1 |
 | 17.10.2026 | AP-008 gjennomgått av Opus; rettelser og Radix-innføring pågår. AP-101 og AP-103 til gjennomgang hos Opus. Spørsmål 44 besvart (Enhetsregisteret), 73 og 74 lagt til. | Fable 5.1 |
