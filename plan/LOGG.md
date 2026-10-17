@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-107 levert, til gjennomgang hos Opus. | Fable 5.1 |
 | 17.10.2026 | AP-108 levert, til gjennomgang hos Opus. Spørsmål 33 besvart. | Fable 5.1 |
 | 17.10.2026 | AP-205 ferdig, merget (24dfbe1). AP-402 rettet (XML-eksport krever LesFulltFodselsnummer) og rebaser; ADR-nummer kolliderte med AP-205 (0020) og blir 0021. | Fable 5.1 |
 | 17.10.2026 | AP-212 gjennomgått av Opus; sju funn rettes. Spørsmål 88 i AP-009, note i AP-301. AP-205 rebaser for siste gang og merges straks. | Fable 5.1 |
