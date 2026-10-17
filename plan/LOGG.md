@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | Eieren bekreftet ADR 0004 (kontantprinsippet), 0007 (periodelås og reversering) og 0008 (flerkunde). AP-001 ferdig. Bølge 3 (AP-002, AP-005) kan starte. | Hans Christian Thjømøe |
 | 17.10.2026 | AP-001 implementert av Fable 5.1 i koderepoet (verdityper, domenetyper, 12 ADR-er, 10 invariant-filer, DI-registrering med validering, arkitekturtester). Status «til gjennomgang»: eieren må lese og bekrefte ADR 0004, 0007 og 0008 her i loggen. Nytt spørsmål 49 i AP-009 (ansettelsesform-koder). | Fable 5.1 |
 | 17.10.2026 | Eieren valgte Azure som hosting. Ført inn i 01-arkitektur (Drift), AP-000 og AP-009 spm. 47. Region og tjenester avgjøres i AP-005. | Fable 5.1 |
 | 17.10.2026 | Eieren presiserte: ett designsystem med felles komponenter og gjenbruk i `web/`, og i backend dependency injection, god arkitektur og riktig granularitet av tjenester. Lagt inn som to prinsipper i 01-arkitektur, ADR 0011 og 0012 i AP-001, og i `CLAUDE.md` i koderepoet. | Fable 5.1 |
