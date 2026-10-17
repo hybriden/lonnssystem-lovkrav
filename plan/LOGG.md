@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-106 gjennomgått av Opus, seks funn rettes av Sonnet. Spørsmål 70 til 72 i AP-009, noter i AP-301 og AP-303. AP-008 til gjennomgang hos Opus. | Fable 5.1 |
 | 17.10.2026 | AP-007 ferdig, merget (30f796d). Bølge 5 komplett. Bølge 6 fortsetter: AP-008, AP-101, AP-103 startes på Sonnet (worktrees ap008, ap101, ap103); AP-106 får beskjed om å legge på endepunktene. | Fable 5.1 |
 | 17.10.2026 | Bølge 6 startet med AP-106 på Sonnet 5.5 (worktree lonnssystem-ap106, gren ap-106): domene, data, lagring og tjenester først; endepunktene legges på AP-007 sitt mønster når AP-007 er merget. AP-008, AP-101 og AP-103 venter på AP-007. | Fable 5.1 |
 | 17.10.2026 | AP-105 ferdig, merget (6e830c1). Bare AP-007 gjenstår i bølge 5. | Fable 5.1 |
