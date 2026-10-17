@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-004 ferdig: gjennomgått av Sonnet, rettelser av Haiku verifisert, merget (0e3d631). Spørsmål 64 i AP-009 (km-sats 5,30 eller 5,00; gave 20 år). | Fable 5.1 |
 | 17.10.2026 | AP-102 fullført av Sonnet, til gjennomgang hos Sonnet (egen økt). Beregningskodestrengene bekreftes når AP-105 har a-meldingens kodeliste. Delte kommuner notert i AP-101. | Fable 5.1 |
 | 17.10.2026 | AP-004 til gjennomgang hos Sonnet. AP-203 eskalert til Sonnet for fullføring (to røde tester, 21 MB innebygd tabell skal gzippes). | Fable 5.1 |
 | 17.10.2026 | AP-105 eskalert fra Haiku til Sonnet for a-meldingens kodelister; AP-004 fikk avgjørelser fra Fable (G verifisert mot NAV: 130 160 fra 1.5.2025, 136 549 fra 1.5.2026, snitt 134 419; primærkilder i stedet for research; forslagsår unntas fra kravet om komplette nøkler). Erfaring: K1-datapakker som krever kildehenting fra nett bør gå på Sonnet, ikke Haiku. | Fable 5.1 |
