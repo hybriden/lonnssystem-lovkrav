@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-006 ferdig: rettelser verifisert, merget til main (dc36b4e). Bølge 4 er dermed komplett. | Fable 5.1 |
 | 17.10.2026 | AP-006 implementert av Opus og gjennomgått av Fable; to funn rettes (selvtildeling av roller, global deaktivering). Avgjort: en bruker kan ikke gi seg selv roller; deaktivering bare når brukeren ikke har roller hos andre arbeidsgivere. Bølge 5-datapakkene startet på Haiku 5.5: AP-004 (ap-004), AP-102 (ap-102), AP-105 (ap-105), AP-203 (ap-203). Eieren ga stående instruks: gjør alle oppgaver uten å spørre, stopp bare for spørsmål som trenger svar. | Fable 5.1 |
 | 17.10.2026 | AP-407 ferdig: gjennomgått av Opus, rettelser av Sonnet verifisert av Fable, merget til main (f3d55c6). E-postport utsatt til AP-007. Spørsmål 57 til 60 i AP-009. | Fable 5.1 |
 | 17.10.2026 | AP-003 ferdig: gjennomgått av Opus, rettelser av Sonnet verifisert av Fable, merget til main (60cf8b3). Spørsmål 55 og 56 i AP-009. | Fable 5.1 |
