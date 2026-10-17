@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-201 ferdig, merget (bb08fb8). Bølge 8 startet med de sju pakkene som bare trengte AP-201: AP-202 og AP-205 på Opus, AP-208, AP-209, AP-210, AP-212 og AP-602 på Sonnet (worktrees ap202, ap205, ap208, ap209, ap210, ap212, ap602). AP-107, AP-108, AP-211 og AP-501 venter på AP-104. | Fable 5.1 |
 | 17.10.2026 | AP-008 ferdig, merget (9ce8dfc). Bølge 6 komplett (AP-008, AP-101, AP-103, AP-106). | Fable 5.1 |
 | 17.10.2026 | AP-201 gjennomgått av Fable og godkjent; rebaser. Spørsmål 79 til 81 i AP-009, note i AP-301. | Fable 5.1 |
 | 17.10.2026 | AP-101 ferdig, merget (a02eac1). AP-201 levert av Opus, til gjennomgang hos Fable. | Fable 5.1 |
