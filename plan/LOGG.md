@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-703 gjennomgått av Opus; ett funn må rettes. Noter i AP-705 og AP-407. | Fable 5.1 |
 | 18.10.2026 | AP-802 gjennomgått av Opus; fem funn rettes. Spørsmål 101. | Fable 5.1 |
 | 18.10.2026 | AP-702 levert, til gjennomgang hos Opus. | Fable 5.1 |
 | 18.10.2026 | AP-704 ferdig, merget (805b2bf). Bølge 11 komplett. AP-404, AP-703 og AP-802 levert, til gjennomgang hos Opus. | Fable 5.1 |
