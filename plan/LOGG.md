@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-301 ferdig, merget (c27b055). Bølge 10 komplett. Bølge 11 startet: AP-302, AP-303, AP-305, AP-306, AP-403, AP-503, AP-704 fra main c27b055. | Fable 5.1 |
 | 17.10.2026 | AP-301 levert og gjennomgått av Fable; godkjent med tre rettelser. Spørsmål 97. Noter i AP-210, AP-302, AP-305, AP-403. | Fable 5.1 |
 | 17.10.2026 | AP-603 ferdig, merget (e9a9bcc). Bølge 10 mangler bare AP-301 (lønnskjøringen). | Fable 5.1 |
 | 17.10.2026 | AP-705 ferdig, merget (1708ab2). AP-603 rettet, tar siste rebase. AP-301 bygger. | Fable 5.1 |
