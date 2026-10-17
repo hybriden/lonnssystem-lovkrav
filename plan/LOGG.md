@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-008 ferdig, merget (9ce8dfc). Bølge 6 komplett (AP-008, AP-101, AP-103, AP-106). | Fable 5.1 |
 | 17.10.2026 | AP-201 gjennomgått av Fable og godkjent; rebaser. Spørsmål 79 til 81 i AP-009, note i AP-301. | Fable 5.1 |
 | 17.10.2026 | AP-101 ferdig, merget (a02eac1). AP-201 levert av Opus, til gjennomgang hos Fable. | Fable 5.1 |
 | 17.10.2026 | AP-103 ferdig, merget (1647c27). AP-104 og AP-402 startes på Opus (worktrees ap104, ap402). | Fable 5.1 |
