@@ -16,7 +16,7 @@ Lønnssystemet bygges i .NET 10 med PostgreSQL, en ren C#-domenekjerne for alle 
 | Frontend | React 19, Vite, TypeScript, norsk brukertekst, Liquid Glass-designet fra harmonix | Designsystemet (tokens, radier, typeskala, glass, UI-kit) porteres fra eierens repo hybriden/harmonix i AP-008; se `docs/design.md` i koderepoet. Generert klient fra OpenAPI, så typer ikke drifter. |
 | Autentisering | Argon2id, tjenersidesesjoner i cookie, TOTP, rollebasert tilgang | Fødselsnummer, fagforening og sykefravær er sensitive. Ingen JWT i nettleseren. |
 | Tester | xUnit, Verify (snapshots), Testcontainers (Postgres), Playwright for e2e | Domenet testes uten infrastruktur. API testes mot ekte Postgres. |
-| Drift | Docker Compose, flerstegs-bilder, migrering før oppstart | Kjøres hos leverandør i EØS. Sikkerhetskopi adskilt og testet årlig (bff. § 7-2). |
+| Drift | Azure i region Norway East: containerbilde (flerstegs), Azure Database for PostgreSQL Flexible Server, Key Vault for nøkler, migrering før oppstart. Docker Compose lokalt. | Data i Norge oppfyller bff. § 7-5 uten melding til skattekontoret. Sikkerhetskopi i egen lagringskonto med uforanderlighet, adskilt fra originalen og testet årlig (bff. § 7-2). Tjenestevalget dokumenteres i en ADR i AP-005. |
 | Lint og format | `dotnet format`, analysatorer på `warning as error`, oxlint og oxfmt i `web/` | Null advarsler i CI. |
 
 ## Mappestruktur
