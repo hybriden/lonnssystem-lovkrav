@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-105 ferdig, merget (6e830c1). Bare AP-007 gjenstår i bølge 5. | Fable 5.1 |
 | 17.10.2026 | AP-401 ferdig, merget (e10efbb). | Fable 5.1 |
 | 17.10.2026 | AP-105 gjennomgått (kodelistene bekreftet mot Skatteetatens xlsx), to funn rettes. Spørsmål 49 besvart: ansettelsesform har fem koder (fast, midlertidig, fastAnsattUtleid, midlertidigAnsattUtleid, midlertidigAnsattSomTilkallingsvikar). | Fable 5.1 |
 | 17.10.2026 | AP-401 gjennomgått av Fable og godkjent; Opus rebaser og regenererer migreringen etter AP-701. AP-007 rettet etter Opus-gjennomgang, merges sist i bølgen. Spørsmål 69 i AP-009, noter i AP-902 og AP-904. | Fable 5.1 |
