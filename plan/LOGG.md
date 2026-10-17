@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-704 ferdig, merget (805b2bf). Bølge 11 komplett. AP-404, AP-703 og AP-802 levert, til gjennomgang hos Opus. | Fable 5.1 |
 | 18.10.2026 | AP-503 ferdig, merget (35a0008). AP-504 startet. AP-704 rebaser som siste i bølge 11. | Fable 5.1 |
 | 18.10.2026 | Bølge 12 startet for AP-304, AP-404, AP-601, AP-702, AP-703, AP-802 og AP-903 fra main 7db0cce; AP-504 venter på AP-503. | Fable 5.1 |
 | 18.10.2026 | AP-303 ferdig, merget (7db0cce). AP-503 rebaser som neste, så AP-704. | Fable 5.1 |
