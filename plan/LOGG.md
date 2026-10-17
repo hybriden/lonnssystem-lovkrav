@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-602 ferdig, merget (a20627e). AP-107 gjennomgått av Opus; fem funn rettes, kriterium 4 rettet etter § 14-5 tredje ledd. AP-212 rettet, rebaser mot ny main. | Fable 5.1 |
 | 17.10.2026 | AP-108 gjennomgått av Opus: satsene stemmer, dokumentasjon og tester rettes. Spørsmål 89 (nattarbeidsflagg). | Fable 5.1 |
 | 17.10.2026 | AP-501 levert, til gjennomgang hos Opus. | Fable 5.1 |
 | 17.10.2026 | AP-402 ferdig, merget (8c6a0dd). Bølge 7 (AP-104, AP-201, AP-402) komplett. Køen for rebase og merge: AP-602, AP-209, AP-210, AP-212. | Fable 5.1 |
