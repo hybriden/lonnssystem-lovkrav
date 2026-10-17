@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-003 ferdig: gjennomgått av Opus, rettelser av Sonnet verifisert av Fable, merget til main (60cf8b3). Spørsmål 55 og 56 i AP-009. | Fable 5.1 |
 | 17.10.2026 | Bølge 4 startet av Fable: AP-003 på Sonnet 5.5 (worktree lonnssystem-ap003, gren ap-003), AP-006 på Opus 5.5 (lonnssystem-ap006, ap-006), AP-407 på Sonnet 5.5 (lonnssystem-ap407, ap-407). Status pågår. | Fable 5.1 |
 | 17.10.2026 | AP-005 ferdig: gjennomgått av Fable med databasetester mot PostgreSQL i Docker, to funn rettet (HMAC per arbeidsgiver, INSERT-sperre i låst periode), merget til main (06f5c1c). Avgjort: nye rader kan ikke legges inn i en låst periode. AP-009 spm. 47 besvart, nytt spm. 54, dupliserte numre 47/48 rettet til 52/53. Neste bølge: AP-003, AP-006, AP-407. | Fable 5.1 |
 | 17.10.2026 | AP-005 implementert av Opus 5.5 på lokal gren ap-005, status til gjennomgang. Databasetestene venter på Docker Desktop (eieren installerer og rebooter). | Fable 5.1 |
