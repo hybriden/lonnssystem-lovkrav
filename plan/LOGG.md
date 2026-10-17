@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-104 ferdig (merget a41c432) og AP-202 ferdig (merget 149ce2d). To lastfølsomme tester fikk romsligere grenser på main (trekktabellinnlasting 10 s, innloggingstiming 50 ms) etter at de feilet under ni samtidige testverter. AP-209, AP-212 og AP-402 levert; AP-209 og AP-212 til gjennomgang hos Opus, AP-402 hos Fable. | Fable 5.1 |
 | 17.10.2026 | AP-205 gjennomgått av Fable (godkjent, én serialiseringsrettelse). AP-210 til gjennomgang hos Opus. AP-602 til gjennomgang hos Opus; spesifikasjonen presisert (fradrag i trinn 2). Noter i AP-101 og AP-301. | Fable 5.1 |
 | 17.10.2026 | AP-202 gjennomgått av Fable; ett funn rettes (fjorårets kort bare i januar). Spørsmål 83 til 86 i AP-009. AP-208 gjennomgått av Opus: tre funn må rettes (to kjøringer samme måned mistet data, tilbakerulling i låst periode, 8 000 kr gave uten kilde); Sonnet retter. | Fable 5.1 |
 | 17.10.2026 | AP-104 gjennomgått av Fable og godkjent; rebaser. AP-208 til gjennomgang hos Opus. Spørsmål 82 i AP-009. | Fable 5.1 |
