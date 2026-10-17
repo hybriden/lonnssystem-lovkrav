@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | Bølge 9 startet: AP-204, AP-206, AP-207, AP-502, AP-506, AP-507 og AP-801 på egne grener fra main 43009ad. AP-107, AP-210 og AP-211 fra bølge 8 gjenstår å merge. | Fable 5.1 |
 | 17.10.2026 | AP-501 ferdig, merget (43009ad). AP-211 rettet. AP-107, AP-210 og AP-211 rebaser i rekkefølge. | Fable 5.1 |
 | 17.10.2026 | AP-108 ferdig, merget (7d3dda2). AP-501, AP-107 og AP-210 rebaser i rekkefølge. | Fable 5.1 |
 | 17.10.2026 | AP-211 gjennomgått av Opus; seks funn rettes (timelønn ved deltid var feil). Spørsmål 52 utvidet, spørsmål 91. | Fable 5.1 |
