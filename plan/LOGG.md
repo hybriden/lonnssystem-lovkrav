@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-304, AP-504 og AP-601 levert (Fable gjennomgår; AP-601 godkjent). AP-702 gjennomgått av Opus (to funn). AP-802 rettet. Spørsmål 103 og 104. | Fable 5.1 |
 | 18.10.2026 | AP-404 gjennomgått av Opus mot Skatteetatens regelliste; nivåer rettes. Kriteriene 2–6 presisert. Spørsmål 102. | Fable 5.1 |
 | 18.10.2026 | AP-703 gjennomgått av Opus; ett funn må rettes. Noter i AP-705 og AP-407. | Fable 5.1 |
 | 18.10.2026 | AP-802 gjennomgått av Opus; fem funn rettes. Spørsmål 101. | Fable 5.1 |
