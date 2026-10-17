@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-202 gjennomgått av Fable; ett funn rettes (fjorårets kort bare i januar). Spørsmål 83 til 86 i AP-009. AP-208 gjennomgått av Opus: tre funn må rettes (to kjøringer samme måned mistet data, tilbakerulling i låst periode, 8 000 kr gave uten kilde); Sonnet retter. | Fable 5.1 |
 | 17.10.2026 | AP-104 gjennomgått av Fable og godkjent; rebaser. AP-208 til gjennomgang hos Opus. Spørsmål 82 i AP-009. | Fable 5.1 |
 | 17.10.2026 | AP-201 ferdig, merget (bb08fb8). Bølge 8 startet med de sju pakkene som bare trengte AP-201: AP-202 og AP-205 på Opus, AP-208, AP-209, AP-210, AP-212 og AP-602 på Sonnet (worktrees ap202, ap205, ap208, ap209, ap210, ap212, ap602). AP-107, AP-108, AP-211 og AP-501 venter på AP-104. | Fable 5.1 |
 | 17.10.2026 | AP-008 ferdig, merget (9ce8dfc). Bølge 6 komplett (AP-008, AP-101, AP-103, AP-106). | Fable 5.1 |
