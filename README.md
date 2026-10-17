@@ -46,3 +46,7 @@ Et norsk lønnssystem må beregne lønn, trekk, feriepenger, arbeidsgiveravgift 
 ## Forbehold
 
 Dette er en kartlegging, ikke juridisk rådgivning. Punkter merket «Åpent spørsmål» i `docs/` er ikke bekreftet i en primærkilde. Satsene endres hvert år. Endringene for 2027 er forslag i Prop. 1 LS (2026–2027) og vedtas i desember 2026.
+
+## Plan for lønnssystemet
+
+Selve lønnssystemet bygges i [hybriden/lonnssystem](https://github.com/hybriden/lonnssystem). Planen for arbeidet, med arkitektur, 68 arbeidspakker og modelltildeling, ligger i [`plan/`](plan/README.md) her. Dette repoet holder kartleggingen, planen og historikken på planen; koden ligger i det andre repoet.
