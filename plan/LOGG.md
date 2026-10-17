@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | Bølge 6 startet med AP-106 på Sonnet 5.5 (worktree lonnssystem-ap106, gren ap-106): domene, data, lagring og tjenester først; endepunktene legges på AP-007 sitt mønster når AP-007 er merget. AP-008, AP-101 og AP-103 venter på AP-007. | Fable 5.1 |
 | 17.10.2026 | AP-105 ferdig, merget (6e830c1). Bare AP-007 gjenstår i bølge 5. | Fable 5.1 |
 | 17.10.2026 | AP-401 ferdig, merget (e10efbb). | Fable 5.1 |
 | 17.10.2026 | AP-105 gjennomgått (kodelistene bekreftet mot Skatteetatens xlsx), to funn rettes. Spørsmål 49 besvart: ansettelsesform har fem koder (fast, midlertidig, fastAnsattUtleid, midlertidigAnsattUtleid, midlertidigAnsattSomTilkallingsvikar). | Fable 5.1 |
