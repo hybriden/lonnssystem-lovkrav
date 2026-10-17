@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-206 ferdig (5897634) og AP-801 ferdig (02b4a77). Gjenstår i bølge 9: AP-207, AP-506 (retter), AP-507 (rebaset, OpenAPI-kopi oppdateres). | Fable 5.1 |
 | 17.10.2026 | AP-506 gjennomgått av Opus; sju funn rettes. Kriterier i AP-207 og AP-506 rettet. AP-206 og AP-801 rettet og rebases for merge. | Fable 5.1 |
 | 17.10.2026 | AP-502 ferdig, merget (c968c58). AP-207 gjennomgått av Opus (fire funn, kriterier rettet). AP-507 rettet. | Fable 5.1 |
 | 17.10.2026 | AP-204 ferdig, merget (655fb5f). AP-801 gjennomgått av Opus (fem funn, fødselsnummer i søke-URL viktigst). AP-506 levert, til gjennomgang hos Opus. AP-206 rettet etter Fables gjennomgang. Spørsmål 95 (API-mangler fra UI). | Fable 5.1 |
