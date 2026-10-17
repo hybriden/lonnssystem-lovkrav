@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-704 levert, til gjennomgang hos Opus. | Fable 5.1 |
 | 17.10.2026 | AP-302 gjennomgått av Opus; fire funn rettes, kriterium 5 rettet (maskering). | Fable 5.1 |
 | 17.10.2026 | AP-302 levert, til gjennomgang hos Opus. | Fable 5.1 |
 | 17.10.2026 | AP-306 gjennomgått av Opus; KID-struktur fra Skatteetaten må implementeres. Kriterium 4 rettet. Spørsmål 99. | Fable 5.1 |
