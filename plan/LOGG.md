@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | Bølge 12 startet for AP-304, AP-404, AP-601, AP-702, AP-703, AP-802 og AP-903 fra main 7db0cce; AP-504 venter på AP-503. | Fable 5.1 |
 | 18.10.2026 | AP-303 ferdig, merget (7db0cce). AP-503 rebaser som neste, så AP-704. | Fable 5.1 |
 | 18.10.2026 | AP-403 ferdig, merget (61a5afb). AP-303 rebaser som neste. | Fable 5.1 |
 | 17.10.2026 | AP-302 ferdig, merget (eaa2025). AP-403 rebaser som neste. | Fable 5.1 |
