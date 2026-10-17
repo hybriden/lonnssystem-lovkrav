@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-004 til gjennomgang hos Sonnet. AP-203 eskalert til Sonnet for fullføring (to røde tester, 21 MB innebygd tabell skal gzippes). | Fable 5.1 |
 | 17.10.2026 | AP-105 eskalert fra Haiku til Sonnet for a-meldingens kodelister; AP-004 fikk avgjørelser fra Fable (G verifisert mot NAV: 130 160 fra 1.5.2025, 136 549 fra 1.5.2026, snitt 134 419; primærkilder i stedet for research; forslagsår unntas fra kravet om komplette nøkler). Erfaring: K1-datapakker som krever kildehenting fra nett bør gå på Sonnet, ikke Haiku. | Fable 5.1 |
 | 17.10.2026 | Bølge 5 fortsetter etter AP-006: AP-007 på Sonnet (ap-007), AP-401 og AP-701 på Opus (ap-401, ap-701). AP-102 eskalert fra Haiku til Sonnet fordi kildedataene ikke ble hentet; rammeverket fra Haiku beholdes. | Fable 5.1 |
 | 17.10.2026 | AP-006 ferdig: rettelser verifisert, merget til main (dc36b4e). Bølge 4 er dermed komplett. | Fable 5.1 |
