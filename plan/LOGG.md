@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 17.10.2026 | AP-005 ferdig: gjennomgått av Fable med databasetester mot PostgreSQL i Docker, to funn rettet (HMAC per arbeidsgiver, INSERT-sperre i låst periode), merget til main (06f5c1c). Avgjort: nye rader kan ikke legges inn i en låst periode. AP-009 spm. 47 besvart, nytt spm. 54, dupliserte numre 47/48 rettet til 52/53. Neste bølge: AP-003, AP-006, AP-407. | Fable 5.1 |
 | 17.10.2026 | AP-005 implementert av Opus 5.5 på lokal gren ap-005, status til gjennomgang. Databasetestene venter på Docker Desktop (eieren installerer og rebooter). | Fable 5.1 |
 | 17.10.2026 | AP-002 ferdig: implementert av Sonnet, gjennomgått av Opus (8 funn rettet), merget til main av Fable. Nye spørsmål 50 og 51 i AP-009. | Fable 5.1 |
 | 17.10.2026 | AP-002 startet på Sonnet 5.5 (worktree lonnssystem-ap002, gren ap-002) og AP-005 på Opus 5.5 (worktree lonnssystem-ap005, gren ap-005). Docker installeres på utviklermaskinen; AP-005 sine databasetester kjører i CI uansett. | Fable 5.1 |
