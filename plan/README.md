@@ -32,4 +32,4 @@ Pakkefilene er oppdrag, ikke fasit. Finner implementasjonen en feil i kartleggin
 | til gjennomgang | Implementasjonen er ferdig, gjennomgangen gjenstår |
 | ferdig | Gjennomgått og slått sammen i `main` |
 
-AP-000 til AP-008, AP-101 til AP-108, AP-201 til AP-212, AP-301, AP-302, AP-303, AP-304, AP-305, AP-306, AP-401, AP-402, AP-403, AP-404, AP-407, AP-501, AP-502, AP-503, AP-504, AP-506, AP-507, AP-601, AP-602, AP-603, AP-701, AP-702, AP-703, AP-704, AP-705, AP-801 og AP-802 er ferdige per 17.10.2026. Bølge 12 (AP-304, AP-404, AP-504, AP-702, AP-703, AP-903) pågår. Resten har status «planlagt».
+AP-000 til AP-008, AP-101 til AP-108, AP-201 til AP-212, AP-301 til AP-306, AP-401 til AP-404, AP-407, AP-501 til AP-504, AP-506, AP-507, AP-601 til AP-603, AP-701 til AP-705, AP-801, AP-802 og AP-903 er ferdige per 18.10.2026 (bølge 1 til 12 fullført). Bølge 13 (AP-405, AP-505, AP-706, AP-805, AP-901) pågår. Resten har status «planlagt».
