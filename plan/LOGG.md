@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | Oppfølgingspakker opprettet: AP-109 (API-mangler for brukerflaten), AP-604 (særgrupper del 2), AP-905 (drift og utrulling), AP-906 (sletteløp del 2 og rettelser), AP-907 (varsling). Bølge 15 er AP-803 og AP-109, bølge 16 er AP-604, AP-905, AP-906 og AP-907. Spørsmål 111 til 117. | Fable 5.1 |
 | 18.10.2026 | AP-902 levert, til gjennomgang hos Fable. AP-406 gjennomgått av Opus, tre funn rettes. AP-904 rettet, Fable kjører porten. | Fable 5.1 |
 | 18.10.2026 | AP-904 gjennomgått av Fable; to funn rettes. | Fable 5.1 |
 | 18.10.2026 | AP-406 levert, til gjennomgang hos Opus. | Fable 5.1 |

@@ -142,4 +142,5 @@ Bølgene er beregnet fra avhengighetene i tabellen: en pakke står i bølgen ett
 | 12 | AP-304, AP-404, AP-504, AP-601, AP-702, AP-703, AP-802, AP-903 |  |
 | 13 | AP-405, AP-505, AP-706, AP-805, AP-901 | Gullåret kan ikke bygges før hele kjeden fra lønnskjøring til a-melding finnes. |
 | 14 | AP-406, AP-804, AP-902, AP-904 | Test i Skatteetatens og NAVs testmiljø til slutt, før første kunde. |
-| 15 | AP-803 |  |
+| 15 | AP-803, AP-109 | AP-109 lukker API-manglene brukerflaten har samlet (nr. 95, 101, 106). |
+| 16 | AP-604, AP-905, AP-906, AP-907 | Oppfølging etter gjennomgangene: særgrupper del 2, drift og utrulling, sletteløp del 2 og rettelser, varsling. AP-905 før første kunde. |
