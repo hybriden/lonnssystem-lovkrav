@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-906 ferdig, merget (b408aea). API-testenes flakehet rettet i testinfrastrukturen. AP-907 rebaser som siste pakke. | Fable 5.1 |
 | 18.10.2026 | AP-907 levert, til gjennomgang hos Opus. AP-906 kjører stille API-runde. | Fable 5.1 |
 | 18.10.2026 | AP-905 ferdig, merget (348c2fe). AP-907 startet; AP-906 hos Opus. | Fable 5.1 |
 | 18.10.2026 | AP-906 levert, til gjennomgang hos Opus. | Fable 5.1 |
