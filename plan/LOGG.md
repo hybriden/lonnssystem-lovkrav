@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-703 ferdig, merget (5470449). AP-702 rebaser som neste; AP-903 retter. | Fable 5.1 |
 | 18.10.2026 | AP-903 gjennomgått av Opus; rebase og fire funn. Spørsmål 105. | Fable 5.1 |
 | 18.10.2026 | AP-504 ferdig, merget (565cc29). AP-903 levert, til gjennomgang hos Opus. AP-703 rebaser som neste, så AP-702. | Fable 5.1 |
 | 18.10.2026 | AP-404 ferdig, merget (be98158). AP-504 rebaser som neste, så AP-703, AP-702, AP-903. | Fable 5.1 |
