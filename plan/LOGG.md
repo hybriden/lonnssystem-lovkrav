@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-805 ferdig, merget (9a2646b). AP-706 rebaser som neste. | Fable 5.1 |
 | 18.10.2026 | AP-405 levert, til gjennomgang hos Fable. Spørsmål 108. | Fable 5.1 |
 | 18.10.2026 | AP-903 ferdig, merget (876af7f). Bølge 12 fullført. | Fable 5.1 |
 | 18.10.2026 | AP-505 gjennomgått av Opus; seks funn rettes. Nr. 107 avgjort. | Fable 5.1 |
