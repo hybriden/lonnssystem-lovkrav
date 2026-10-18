@@ -32,4 +32,4 @@ Pakkefilene er oppdrag, ikke fasit. Finner implementasjonen en feil i kartleggin
 | til gjennomgang | Implementasjonen er ferdig, gjennomgangen gjenstår |
 | ferdig | Gjennomgått og slått sammen i `main` |
 
-AP-000 til AP-008, AP-101 til AP-108, AP-201 til AP-212, AP-301 til AP-306, AP-401 til AP-407, AP-501 til AP-507, AP-601 til AP-603, AP-701 til AP-706, AP-801 til AP-805, AP-901, AP-902, AP-903 og AP-904 er ferdige per 18.10.2026 (bølge 1 til 14 fullført). Alle opprinnelige pakker er ferdige. AP-109 er ferdig. AP-604, AP-905 og AP-906 er ferdige. Bølge 16 (AP-907) pågår. Resten har status «planlagt».
+Alle arbeidspakker i planen er ferdige per 19.10.2026: AP-000 til AP-907, inkludert oppfølgingspakkene AP-109, AP-604, AP-905, AP-906 og AP-907. Det som gjenstår, er handlinger bare eieren kan gjøre: testmiljø-tilganger (AP-009 nr. 110), signering av sikkerhetsrapporten (AP-902 kriterium 6), første utrulling med Key Vault-hemmeligheter og Sikkerhet:KjenteProxynett (AP-905), Communication Services og databehandleravtale (AP-907), og bekreftelse av standardvalgene i AP-009 nr. 87 til 119.
