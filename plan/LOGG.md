@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-604 ferdig, merget (8b7289b). AP-905 rebaser som neste; AP-906 bygger. | Fable 5.1 |
 | 18.10.2026 | AP-109 ferdig, merget (304605c). Bølge 15 fullført. AP-906 startet; AP-604 rebaser, så AP-905. | Fable 5.1 |
 | 18.10.2026 | AP-109 levert, til gjennomgang hos Opus. | Fable 5.1 |
 | 18.10.2026 | AP-109 og AP-604 levert første versjon, porten ufullstendig på grunn av minnemangel; sekvensert: AP-109 rebaser og kjører porten alene, AP-604 kjører lette prosjekter. Spørsmål 118. | Fable 5.1 |
