@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-901 ferdig, merget (ee992cb). Bølge 13 fullført. | Fable 5.1 |
 | 18.10.2026 | AP-804 levert, til gjennomgang hos Opus. Nr. 106 utvidet. | Fable 5.1 |
 | 18.10.2026 | Bølge 14 startet: AP-406, AP-804, AP-902 (K4, Opus med gjennomgang av Fable) og AP-904 fra main ad9abd2, parallelt med at AP-901 avslutter bølge 13. Spørsmål 110 (testmiljø krever eierens handlinger). | Fable 5.1 |
 | 18.10.2026 | AP-505 ferdig, merget (ad9abd2). AP-901 rebaser med oppfølgingene. | Fable 5.1 |
