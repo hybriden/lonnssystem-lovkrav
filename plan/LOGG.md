@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-109 og AP-604 levert første versjon, porten ufullstendig på grunn av minnemangel; sekvensert: AP-109 rebaser og kjører porten alene, AP-604 kjører lette prosjekter. Spørsmål 118. | Fable 5.1 |
 | 18.10.2026 | AP-905 levert, til gjennomgang hos Opus. | Fable 5.1 |
 | 18.10.2026 | AP-803 ferdig, merget (8ba55ca). Alle opprinnelige pakker (AP-000 til AP-904) er ferdige; oppfølgingspakkene AP-109, AP-604, AP-905 pågår, AP-906 og AP-907 venter. | Fable 5.1 |
 | 18.10.2026 | AP-803 levert, til gjennomgang hos Opus. Nr. 106 utvidet; AP-109 fikk fristkalender-endepunktet. | Fable 5.1 |
