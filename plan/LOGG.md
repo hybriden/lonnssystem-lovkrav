@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-803 levert, til gjennomgang hos Opus. Nr. 106 utvidet; AP-109 fikk fristkalender-endepunktet. | Fable 5.1 |
 | 18.10.2026 | AP-604 og AP-905 startet fra main da5e6b7 parallelt med bølge 15; AP-906 venter på AP-109 (begge rører sletting og auth), AP-907 venter på AP-905. | Fable 5.1 |
 | 18.10.2026 | AP-406 ferdig, merget (da5e6b7). Bølge 14 fullført. AP-803 startet. | Fable 5.1 |
 | 18.10.2026 | AP-902 ferdig, merget (2845733). AP-406 rebaser som neste; AP-803 starter etter den. | Fable 5.1 |
