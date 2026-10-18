@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-902 ferdig, merget (2845733). AP-406 rebaser som neste; AP-803 starter etter den. | Fable 5.1 |
 | 18.10.2026 | AP-904 ferdig, merget (ec2585b). AP-902 rebaser som neste. | Fable 5.1 |
 | 18.10.2026 | Bølge 15 startet med AP-109; AP-803 venter på AP-406. | Fable 5.1 |
 | 18.10.2026 | Oppfølgingspakker opprettet: AP-109 (API-mangler for brukerflaten), AP-604 (særgrupper del 2), AP-905 (drift og utrulling), AP-906 (sletteløp del 2 og rettelser), AP-907 (varsling). Bølge 15 er AP-803 og AP-109, bølge 16 er AP-604, AP-905, AP-906 og AP-907. Spørsmål 111 til 117. | Fable 5.1 |
