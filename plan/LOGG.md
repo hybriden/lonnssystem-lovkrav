@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-904 gjennomgått av Fable; to funn rettes. | Fable 5.1 |
 | 18.10.2026 | AP-406 levert, til gjennomgang hos Opus. | Fable 5.1 |
 | 18.10.2026 | AP-804 ferdig, merget (354073b). | Fable 5.1 |
 | 18.10.2026 | AP-901 ferdig, merget (ee992cb). Bølge 13 fullført. | Fable 5.1 |
