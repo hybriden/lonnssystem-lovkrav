@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-406 ferdig, merget (da5e6b7). Bølge 14 fullført. AP-803 startet. | Fable 5.1 |
 | 18.10.2026 | AP-902 ferdig, merget (2845733). AP-406 rebaser som neste; AP-803 starter etter den. | Fable 5.1 |
 | 18.10.2026 | AP-904 ferdig, merget (ec2585b). AP-902 rebaser som neste. | Fable 5.1 |
 | 18.10.2026 | Bølge 15 startet med AP-109; AP-803 venter på AP-406. | Fable 5.1 |
