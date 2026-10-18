@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-505 ferdig, merget (ad9abd2). AP-901 rebaser med oppfølgingene. | Fable 5.1 |
 | 18.10.2026 | AP-405 ferdig, merget (28e5218). AP-505 rebaser som neste, så AP-901. | Fable 5.1 |
 | 18.10.2026 | AP-706 ferdig, merget (6b799d4). AP-505 rebaser som neste, så AP-405 og AP-901. | Fable 5.1 |
 | 18.10.2026 | Spørsmål 109 (halv skatt uavhengig av utbetalingsdag i desember) lagt inn med standard; rettes i AP-901. | Fable 5.1 |
