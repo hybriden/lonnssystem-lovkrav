@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-805 gjennomgått av Opus; tre funn rettes. AP-008 kriterium 1 presisert (utsatte chunker). | Fable 5.1 |
 | 18.10.2026 | AP-805 levert, til gjennomgang hos Opus. Spørsmål 106 (API-mangler til AP-109). | Fable 5.1 |
 | 18.10.2026 | AP-702 ferdig, merget (d168e9c). AP-706 levert, til gjennomgang hos Sonnet. | Fable 5.1 |
 | 18.10.2026 | Bølge 13 startet: AP-405, AP-505, AP-706, AP-805 og AP-901 fra main 5470449, parallelt med at AP-702 og AP-903 avslutter bølge 12. | Fable 5.1 |
