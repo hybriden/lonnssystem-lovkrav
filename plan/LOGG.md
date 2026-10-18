@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 18.10.2026 | AP-505 gjennomgått av Opus; seks funn rettes. Nr. 107 avgjort. | Fable 5.1 |
 | 18.10.2026 | AP-505 levert, til gjennomgang hos Opus. Spørsmål 107. | Fable 5.1 |
 | 18.10.2026 | AP-805 gjennomgått av Opus; tre funn rettes. AP-008 kriterium 1 presisert (utsatte chunker). | Fable 5.1 |
 | 18.10.2026 | AP-805 levert, til gjennomgang hos Opus. Spørsmål 106 (API-mangler til AP-109). | Fable 5.1 |
