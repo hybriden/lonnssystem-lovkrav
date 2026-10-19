@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 19.10.2026 | Eierens ønsker på testmaskinen: data og riktige arbeidsgivernavn. Databasen er nå Gullår-databasen (AP-901, Fjordvik Mekaniske AS, januar til september 2026, kjørt med LONN_TEST_POSTGRES og LONN_BEHOLD_TESTDATABASE mot maskinen, byttet inn som `lonn`; den tomme heter `lonn_tom`). API-et der bruker testnøklene. /api/auth/meg sender arbeidsgivernavn, så valgsiden viser navn for alle roller (commit 3c76740). | Fable 5.1 |
 | 19.10.2026 | Eierens ønske: tofaktor settes opp med QR-kode. Oppsettsiden viser nå QR (otpauth-URI som SVG, pakken qrcode) med hemmeligheten som reserve. Kode-commit e33d43c, pushet og rullet ut til testmaskinen. | Fable 5.1 |
 | 19.10.2026 | Eierens oppdrag: testmiljø som containere på hanschr@192.168.71.230 (Fedora Asahi, arm64). Satt opp med deploy/testmiljo (Compose-overlegg med Caddy for HTTPS, siden sesjonscookien er __Host- med Secure), Migrate.Dockerfile følger TARGETARCH. Kjører på https://192.168.71.230 med to arbeidsgivere og brukeren hanschr. Kode-commits 11db9da til 9db8b99 på main. | Fable 5.1 |
 | 19.10.2026 | AP-907 ferdig, merget (c645af5). Alle arbeidspakker i planen (AP-000 til AP-907) er ferdige og merget til main. | Fable 5.1 |
