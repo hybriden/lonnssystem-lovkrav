@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 19.10.2026 | Eierens oppdrag: testmiljø som containere på hanschr@192.168.71.230 (Fedora Asahi, arm64). Satt opp med deploy/testmiljo (Compose-overlegg med Caddy for HTTPS, siden sesjonscookien er __Host- med Secure), Migrate.Dockerfile følger TARGETARCH. Kjører på https://192.168.71.230 med to arbeidsgivere og brukeren hanschr. Kode-commits 11db9da til 9db8b99 på main. | Fable 5.1 |
 | 19.10.2026 | AP-907 ferdig, merget (c645af5). Alle arbeidspakker i planen (AP-000 til AP-907) er ferdige og merget til main. | Fable 5.1 |
 | 19.10.2026 | Eierens beslutning: ingen fulle testsuiter i GitHub CI (koster for mye). ci.yml kjører nå bare format, bygg, migreringssjekk, Domain-, Parametre- og Integrasjoner-tester, Bicep-bygg og web-lint/bygg/enhetstester; PostgreSQL-suitene, Gullår, Ytelse, Playwright og containertesten ligger i full-gate.yml (manuell) og kjøres lokalt før merge; nattkjøringene i ytelse.yml og testmiljo.yml er tatt ut (bare «Run workflow»). CLAUDE.md og dokumentene oppdatert. | Fable 5.1 |
 | 18.10.2026 | AP-906 ferdig, merget (b408aea). API-testenes flakehet rettet i testinfrastrukturen. AP-907 rebaser som siste pakke. | Fable 5.1 |
