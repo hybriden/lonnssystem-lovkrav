@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 27.10.2026 | AP-1017 ferdig: Ny lønnskjøring viser hvem som tas med (nytt endepunkt /lonnskjoringer/utvalg), utkast kan slettes (DELETE), sekundærknapper fikk kantlinje. Deployet. | Fable 5.1 |
 | 27.10.2026 | AP-1016 ferdig: datofelt som dd.mm.åååå uavhengig av nettleserspråk, lenker med understrek overalt, tabeller i kort med kortfarge på alle listesider, slankere lønnsartliste. Deployet. | Fable 5.1 |
 | 27.10.2026 | AP-1015 ferdig: ingress på hver side, tomme lister med neste handling, «Før første lønnskjøring» på startsiden, neste steg på kjøringen. Innloggingsbildet byttet til lavt linjefjell så teksten står fritt. Deployet. | Fable 5.1 |
 | 27.10.2026 | AP-1015 Flyt for den som ikke kan lønn: gjennomgang og forslag (ingress på hver side, tomme lister med neste handling, «Før første lønnskjøring» på startsiden, neste steg på kjøringen). Status forslag. | Fable 5.1 |
