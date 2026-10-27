@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 27.10.2026 | AP-1019 ferdig: «Ansattportal» på ansattsiden (gi/fjern portaltilgang, engangspassord vist én gang, nytt felt portalbruker), og Innlogging:TofaktorValgfri i test- og utviklingsmiljøet så brukere uten app slipper koden; nektes i produksjon. Deployet. | Fable 5.1 |
 | 27.10.2026 | CLI `opprett-bruker` tar en ansatt-id med rollen Ansatt og lager en portalkonto koblet til ansatten (samme vei som POST /ansatte/{id}/bruker). Tre testprofiler for ansattportalen laget på testmaskinen. Mangel notert: portalkoblingen har ingen knapp i UI-et. | Fable 5.1 |
 | 27.10.2026 | Produktnavn valgt: Kapasativ Payroll. Byttet i skallet, innloggingen, fanetittel, PWA-manifest, frakoblet-siden, e-postfot og README. Repo og kode heter fortsatt lonnssystem. | Fable 5.1 |
 | 27.10.2026 | AP-1018 ferdig: menyen har Personal (Ansatte, Trekk) øverst og Oppsett (Arbeidsgiver, Lønnsarter og satser, Brukere og roller) nederst; faner vraket. Deployet. | Fable 5.1 |
