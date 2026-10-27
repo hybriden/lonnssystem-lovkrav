@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 27.10.2026 | Produktnavn valgt: Kapasativ Payroll. Byttet i skallet, innloggingen, fanetittel, PWA-manifest, frakoblet-siden, e-postfot og README. Repo og kode heter fortsatt lonnssystem. | Fable 5.1 |
 | 27.10.2026 | AP-1018 ferdig: menyen har Personal (Ansatte, Trekk) øverst og Oppsett (Arbeidsgiver, Lønnsarter og satser, Brukere og roller) nederst; faner vraket. Deployet. | Fable 5.1 |
 | 27.10.2026 | AP-1017 oppfølging: tomt utvalg vises som 0 (og-logikken på tvers av dimensjoner bekreftet med test), hjelpeknappen i samme høyde som de andre. Deployet. | Fable 5.1 |
 | 27.10.2026 | AP-1017 ferdig: Ny lønnskjøring viser hvem som tas med (nytt endepunkt /lonnskjoringer/utvalg), utkast kan slettes (DELETE), sekundærknapper fikk kantlinje. Deployet. | Fable 5.1 |
