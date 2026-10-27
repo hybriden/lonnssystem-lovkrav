@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 27.10.2026 | AP-1015 Flyt for den som ikke kan lønn: gjennomgang og forslag (ingress på hver side, tomme lister med neste handling, «Før første lønnskjøring» på startsiden, neste steg på kjøringen). Status forslag. | Fable 5.1 |
 | 26.10.2026 | Funksjonell gjennomgang av menyrekkefølgen levert, eieren sa «kjør på». AP-1014 bygget: Grunnlag får Lønnsarter og satser og Brukere og roller, Godkjenning først i Måneden, Oppfølging heter Kontroll, Ny arbeidsgiver flyttet til Brukere og roller, Grunndata-huben og Min side fjernet, Rapporter på /rapporter, startsiden teller meldinger som venter, Årsoppgaver i portalmenyen. | Fable 5.1 |
 | 26.10.2026 | Innloggingssiden fikk bakgrunnsbilde i merkepanelet etter eierens bestilling: «linjefjellet», laget lokalt med ComfyUI og Qwen Image 2.1 (fire retninger prøvd, tre runder), 136 kB webp, gradient fra kromfargen så teksten står rolig i lyst og mørkt tema. Original, prompt og frø i docs/design/innlogging. Deployet. | Fable 5.1 |
 | 26.10.2026 | AP-1013 bygget og deployet etter eierens «vi gjør som anbefalt»: lønnssystemet ser ut som Kapasativ (krem, hvite kort, burgunder bokbind, DM Sans, Mørk-tema), oppnådd med tokenverdier og nytt skall; glass borte. Fire små avvik for kontrast dokumentert i docs/design.md. Sak lonnssystem#11. | Fable 5.1 |
