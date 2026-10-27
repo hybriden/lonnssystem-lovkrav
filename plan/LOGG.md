@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 27.10.2026 | AP-1020 trinn 2 ferdig: den ansatte melder brukt rabatt (meldingstypen godebruk), godkjenningen registrerer naturalytelse (personalrabatt mot 10 000-grensen, ny hendelsestype rabatt i sin helhet på 5170). Sak #12 lukket. Deployet. | Fable 5.1 |
 | 27.10.2026 | AP-1020 trinn 1 ferdig: tabellen goder, Oppsett → Goder med dimensjonsfilter og fast skattepliktig verdi per måned som linjekilde i månedskjøringen, Goder i portalen og MCP-verktøyet mine_goder. Trinn 2 (bruk meldt av den ansatte, 10 000-grensen) gjenstår. Deployet. | Fable 5.1 |
 | 27.10.2026 | Portalens startside: snarveilisten nederst fjernet, toppmenyen holder (eieren). Sak #12 AP-1020 Ansattgoder opprettet; eieren: alt fra personalhåndbok til skattepliktige goder, tredjepartsrabatter med. | Fable 5.1 |
 | 27.10.2026 | AP-1019 ferdig: «Ansattportal» på ansattsiden (gi/fjern portaltilgang, engangspassord vist én gang, nytt felt portalbruker), og Innlogging:TofaktorValgfri i test- og utviklingsmiljøet så brukere uten app slipper koden; nektes i produksjon. Deployet. | Fable 5.1 |
