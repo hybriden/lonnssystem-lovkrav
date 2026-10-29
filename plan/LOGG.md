@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 29.10.2026 | AP-1025: fristkortet på oversikten kan vises som kalender (innstillingen Visning), med månedsnavigasjon i kortet. Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1027 Frister som kalender: visningsvalg liste/kalender i URL-en, månedskalender med fristene på dagen og dagens frister ved klikk; rutenettet med tastaturstyring delt med fraværskalenderen. Sak #21 lukket. Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1026 Fristsiden: typefilteret er avhuking med flere typer, valget i URL-en. Sak #20 lukket. Rettet også justering av fristtype-feltet på oversikten og fall-back til standardkort. Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1024 trinn 3: Personvern flyttet til gruppen Personal i menyen. Sak #19 lukket. Deployet. | Fable 5.1 |
