@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 29.10.2026 | AP-1025 trinn 2: korttypene meldinger til godkjenning, siste kjøringer, forfall og nøkkeltall. Sak #18 lukket. Sak #19 (Personvern under Personal) opprettet. Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1025 Oversikten som widgeter, trinn 1: oppsett per bruker og arbeidsgiver (tabell oversiktsoppsett), «Tilpass oversikten» med legg til, fjern, flytt, bredde, egen tittel, og fristkort med filter på typer og dager. Sak #18 (trinn 2 gjenstår). Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1024 trinn 2: menygruppene lagt sammen som standard, åpnes med klikk og huskes i nettleseren. Sak #17 lukket. Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1023 Skattepliktige goder: kort på ansattsiden og i portalen med naturalytelser verdsatt som i en kjøring i dag og goder med fast verdi, sum per måned. Sak #15 lukket. Deployet. | Fable 5.1 |
