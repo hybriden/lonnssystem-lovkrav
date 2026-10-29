@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 29.10.2026 | AP-1026 Fristsiden: typefilteret er avhuking med flere typer, valget i URL-en. Sak #20 lukket. Rettet også justering av fristtype-feltet på oversikten og fall-back til standardkort. Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1024 trinn 3: Personvern flyttet til gruppen Personal i menyen. Sak #19 lukket. Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1025 trinn 2: korttypene meldinger til godkjenning, siste kjøringer, forfall og nøkkeltall. Sak #18 lukket. Sak #19 (Personvern under Personal) opprettet. Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1025 Oversikten som widgeter, trinn 1: oppsett per bruker og arbeidsgiver (tabell oversiktsoppsett), «Tilpass oversikten» med legg til, fjern, flytt, bredde, egen tittel, og fristkort med filter på typer og dager. Sak #18 (trinn 2 gjenstår). Deployet. | Fable 5.1 |
