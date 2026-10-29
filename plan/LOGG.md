@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 29.10.2026 | AP-1024 Menyen: gruppene kan legges sammen og utvides, valget huskes i nettleseren, gruppen med siden du står på holdes åpen. Sak #16 lukket. Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1022 Lønnsjustering trinn 1: «Juster lønn» som dialog på ansatt- og arbeidsforholdsiden (beløp eller prosent, dato, kommentar, forhåndsvisning), kommentar på stillingsversjonen, MCP juster_lonn. Sak #15 (skattepliktige goder som kort på ansatten) opprettet. | Fable 5.1 |
 | 29.10.2026 | AP-1021 trinn 2: kostnadskonto og tekst på utleggstypen, tolv standardtyper etter norsk praksis, standardsett-knappen legger inn lønnsarter og kontoer som mangler. Lønnsarter-tabellen uten sidescroll. Økt: to timer inaktivitet, tolv timer levetid. | Fable 5.1 |
 | 29.10.2026 | AP-1021 Utleggstyper ferdig: definerbare typer med lønnsart, kvitteringskrav og kilometer (statens sats); portalen velger type; godkjente utlegg går automatisk inn i neste månedskjøring. Sak #13 lukket. Deployet. | Fable 5.1 |
