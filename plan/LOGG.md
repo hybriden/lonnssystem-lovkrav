@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 29.10.2026 | AP-1024 trinn 2: menygruppene lagt sammen som standard, åpnes med klikk og huskes i nettleseren. Sak #17 lukket. Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1023 Skattepliktige goder: kort på ansattsiden og i portalen med naturalytelser verdsatt som i en kjøring i dag og goder med fast verdi, sum per måned. Sak #15 lukket. Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1024 Menyen: gruppene kan legges sammen og utvides, valget huskes i nettleseren, gruppen med siden du står på holdes åpen. Sak #16 lukket. Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1022 Lønnsjustering trinn 1: «Juster lønn» som dialog på ansatt- og arbeidsforholdsiden (beløp eller prosent, dato, kommentar, forhåndsvisning), kommentar på stillingsversjonen, MCP juster_lonn. Sak #15 (skattepliktige goder som kort på ansatten) opprettet. | Fable 5.1 |
