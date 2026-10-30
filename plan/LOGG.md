@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 30.10.2026 | AP-1025: breddevelger Halv/Hel og pilknapper for flytting i «Tilpass oversikten». Sak #26 lukket. Deployet. | Fable 5.1 |
 | 30.10.2026 | AP-1025: knapperaden i «Tilpass oversikten» flyttet øverst. Sak #25 lukket. Deployet. | Fable 5.1 |
 | 30.10.2026 | AP-1025: «Legg til kort» er en +-knapp med liste over korttypene; slippsonene vises bare under drag. Sak #24 lukket. Deployet. | Fable 5.1 |
 | 30.10.2026 | AP-1025 trinn 4: oversikten som bånd med kolonner som flyter hver for seg, kolonne lagret per kort, og dra-og-slipp av kortene i redigeringsmodus. Sak #23 lukket. Deployet. | Fable 5.1 |
