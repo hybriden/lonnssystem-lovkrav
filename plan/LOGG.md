@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 30.10.2026 | AP-1025 trinn 4: oversikten som bånd med kolonner som flyter hver for seg, kolonne lagret per kort, og dra-og-slipp av kortene i redigeringsmodus. Sak #23 lukket. Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1025 trinn 3: kortet Handlinger med valgbare snarveier etter rettigheter. Sak #22 lukket. AP-1024: den aktive menygruppen kan legges sammen for hånd. Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1025: fristkortet på oversikten kan vises som kalender (innstillingen Visning), med månedsnavigasjon i kortet. Deployet. | Fable 5.1 |
 | 29.10.2026 | AP-1027 Frister som kalender: visningsvalg liste/kalender i URL-en, månedskalender med fristene på dagen og dagens frister ved klikk; rutenettet med tastaturstyring delt med fraværskalenderen. Sak #21 lukket. Deployet. | Fable 5.1 |
