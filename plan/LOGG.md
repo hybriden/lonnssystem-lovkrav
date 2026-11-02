@@ -4,6 +4,8 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 02.11.2026 | AP-1028 Rolig hovedbok: tittelen står alene (ingress inn i Hjelp-panelet), strammere typeskala, hårlinjerader på oversikten, strek i stedet for «Ukjent», lys topplinje, enkel innlogging, klikkbare rader i byråoversikten. ADR 0031. | Fable 5.1 |
+| 02.11.2026 | AP-1028: Designsystemet (Digdir) i hele appen, topplinje etter nav.no-modellen, 1280-grid, UI/UX-gjennomgang med Playwright og rettingene fra den. ADR 0032. | Fable 5.1 |
 | 30.10.2026 | AP-1025: «Tilbake til standard» ber om bekreftelse. Sak #27 lukket. Deployet. | Fable 5.1 |
 | 30.10.2026 | AP-1025: breddevelger Halv/Hel og pilknapper for flytting i «Tilpass oversikten». Sak #26 lukket. Deployet. | Fable 5.1 |
 | 30.10.2026 | AP-1025: knapperaden i «Tilpass oversikten» flyttet øverst. Sak #25 lukket. Deployet. | Fable 5.1 |
