@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 03.11.2026 | Kontroll mot eierens lønnsslipper 2022–2026: tabelltrekk (27 måneder), halv skatt, prosentkort 2024 og 2026, feriepengegrunnlag og feriepenger. Funn rettet: trekk over tabellens øvre grense regnes nå med Skatteetatens trekkrutine (ADR 0019). Åpne: AP-009 nr. 123 (avrunding av prosentgrunnlaget) og 124 (trekk i lønn for ferie). | Opus 5.5 |
 | 03.11.2026 | Snapshot-tester fra eierens lønnsslipper 2026 (prosenttrekk 34 %, feriepengegrunnlag): seks av sju måneder likt på kronen, april én krone unna; AP-009 nr. 123. Gullåret grønt igjen (harnesset merker alle gjennomgått). Påminnelsen `kjoring-ikke-godkjent` (AP-1030) og sammenslåtte ansatte uten avvik (AP-1031). | Opus 5.5 |
 | 03.11.2026 | AP-1032 levert etter eierens valg «Klar ved utbetaling»: a-meldingen lages når kjøringen er utbetalt, et menneske sender; en melding laget før en senere utbetaling i måneden kan ikke sendes. Alle fem pakkene i «Unntaksstyrt lønn» er levert. | Opus 5.5 |
 | 03.11.2026 | AP-1031 levert (klarsjekker: ingen lønn, negativ netto, nytt kontonummer; eksakt forklaring per ansatt, `forklar_kjoring`). AP-1033 levert (MCP-promptene `forbered_lonn` og `sammendrag_til_kunde`). AP-1032 stoppet: a-meldingen bygges bare av utbetalte kjøringer, så den kan ikke sendes ved godkjenning; venter på eierens valg. | Opus 5.5 |
