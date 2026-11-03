@@ -4,6 +4,7 @@ Nyeste øverst. Hver linje: dato, hva som ble endret, hvem.
 
 | Dato | Endring | Av |
 | --- | --- | --- |
+| 03.11.2026 | AP-1032 levert etter eierens valg «Klar ved utbetaling»: a-meldingen lages når kjøringen er utbetalt, et menneske sender; en melding laget før en senere utbetaling i måneden kan ikke sendes. Alle fem pakkene i «Unntaksstyrt lønn» er levert. | Opus 5.5 |
 | 03.11.2026 | AP-1031 levert (klarsjekker: ingen lønn, negativ netto, nytt kontonummer; eksakt forklaring per ansatt, `forklar_kjoring`). AP-1033 levert (MCP-promptene `forbered_lonn` og `sammendrag_til_kunde`). AP-1032 stoppet: a-meldingen bygges bare av utbetalte kjøringer, så den kan ikke sendes ved godkjenning; venter på eierens valg. | Opus 5.5 |
 | 03.11.2026 | AP-1029–1033 Unntaksstyrt lønn: analyse av automatisering (konkurrenter, regelmotor, LLM, AI Act, GDPR art. 22, bank). Systemet forbereder kjøringen etter tidsplan og et menneske godkjenner avvikene; ingen automatisk godkjenning, ingen LLM i beregning eller godkjenning. AP-1029 levert: daglig bestilling av endrede skattekort, jobblås, aktør i revisjonsloggen. ADR 0033. | Opus 5.5 |
 | 02.11.2026 | AP-1028 Rolig hovedbok: tittelen står alene (ingress inn i Hjelp-panelet), strammere typeskala, hårlinjerader på oversikten, strek i stedet for «Ukjent», lys topplinje, enkel innlogging, klikkbare rader i byråoversikten. ADR 0031. | Fable 5.1 |
